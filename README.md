@@ -1,0 +1,3 @@
+# BHARAT_INTERN
+# TASK - :BASIC NETFLIX HOMEPAGE CREATION
+Check out my Landing page : 
