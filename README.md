@@ -1,3 +1,3 @@
 # BHARAT_INTERN
-# TASK - :BASIC NETFLIX HOMEPAGE CREATION
-Check out my Landing page : 
+# TASK-:Basic Netflix Homepage Creation
+Check out my Landing page :  https://tapacademyproject2023.github.io/BHARAT_INTERN-TASK_1.github.io/
